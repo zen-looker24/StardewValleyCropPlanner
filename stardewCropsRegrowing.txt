@@ -1,0 +1,7 @@
+name, seedCostPierre, seedCostJoja, sellPriceNormal, sellPriceSilver, sellPriceGold, sellPriceIridium, isAvailableYear1, growTime, yieldPerPlant, season1, season2, regrowTime
+"Blueberry", 80, 0, 50, 62, 75, 100, true, 13, 3.02, "Summer", "none", 4
+"Corn", 150, 187, 50, 62, 75, 100, true, 14, 1, "Summer", "Fall", 4
+"Hot Pepper", 40, 50, 40, 50, 60, 80, true, 5, 1.03, "Summer", "none", 3
+"Tomato", 50, 62, 60, 75, 90, 120, true, 11, 1.05, "Summer", "none", 4
+"Cranberry", 240, 300, 75, 93, 112, 150, true, 7, 2.10, "Fall", "none", 5
+"Eggplant", 20, 25, 60, 75, 90, 120, true, 5, 1.002, "Fall", "none", 5

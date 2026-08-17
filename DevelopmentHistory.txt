@@ -1,0 +1,5 @@
+Stardew Crop Planner Development History
+0.0.0 - Created a basic menu and returns crop with highest sell price
+0.0.1 - Added calculations and returns crop with highest money per day
+0.0.2 - Improved output formatting and extended given information output
+0.0.3 - Added fertilizer and farming level into calculations

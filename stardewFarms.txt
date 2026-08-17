@@ -1,0 +1,10 @@
+name, totalArableTiles
+"Standard", 3427
+"Riverland", 1578
+"Forest", 1413
+"Hilltop", 1648
+"Wilderness", 2131
+"Four corners", 2952
+"Beach", 2700
+"Meadowlands", 2066
+"Ginger", 777
