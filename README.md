@@ -10,3 +10,9 @@ CropsRegrowing and CropsRegular: Store a list of crops, their sell prices, seed 
 Farms: Stores a list of the different in game farms. This is not implemented yet. 
 
 DevelopmentHistory: Before I was aware of the existence of GitHub, I made a small file detailing what changes came in what order.
+
+## Development Plans
+
+One major goal of the next version is to apply the principles of object oriented programming. Originally, the entire program was contained in a single file. Refactoring by separating classes into different files will reflect OOP.
+
+In the future, I hope to add a way of incorporating your farm type and current money balance. 
