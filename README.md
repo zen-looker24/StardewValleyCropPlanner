@@ -13,6 +13,6 @@ DevelopmentHistory: Before I was aware of the existence of GitHub, I made a smal
 
 ## Development Plans
 
-One major goal of the next version is to apply the principles of object oriented programming. Originally, the entire program was contained in a single file. Refactoring by separating classes into different files will reflect OOP.
+One major goal of the next version is to apply the principles of object oriented programming. Originally, the entire program was contained in a single file. Refactoring by separating classes into different files will reflect OOP. Another goal is the implementation of crops which are not obtained by buying the seeds from Pierre or Joja Mart. 
 
 In the future, I hope to add a way of incorporating your farm type and current money balance. 
